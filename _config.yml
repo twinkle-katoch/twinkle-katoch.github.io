@@ -1,4 +1,4 @@
-remote_theme: hardikdabhi/hardpool-flat@2.0.0
+remote_theme: hardpool/hardpool-flat@2.0.0
 
 # Build settings
 markdown: kramdown
