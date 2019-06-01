@@ -1,27 +1,27 @@
 ---
 layout: portfolio-post
-title:  "Dress 1 a really long dress title"
+title:  "Bright red dress"
 categories: fashion banner featured
 tags: summer long classy funky
 
-img_v: /assets/img/2.jpg
-img_h: /assets/img/1.JPG
-img_t: /assets/img/1.JPG
+img_v: /assets/img/disney-red-v.jpg
+img_h: /assets/img/disney-red-h.jpg
+img_t: /assets/img/disney-red-v.JPG
 outfits:
   - title: Top
-    img: /assets/img/1.JPG
+    img: /assets/img/disney-red-v.JPG
     link: http://google.com
   - title: Top
-    img: /assets/img/1.JPG
+    img: /assets/img/disney-red-v.JPG
     link: http://google.com
   - title: Bottom
-    img: /assets/img/1.JPG
+    img: /assets/img/disney-red-v.JPG
     link: http://google.com
   - title: Shoes
-    img: /assets/img/1.JPG
+    img: /assets/img/disney-red-v.JPG
     link: http://google.com
   - title: Bag
-    img: /assets/img/1.JPG
+    img: /assets/img/disney-red-v.JPG
     link: http://google.com
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam euismod gravida justo id consequat.
