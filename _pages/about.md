@@ -1,6 +1,6 @@
 ---
 layout: portfolio-post
 title: About me
-permalink: /about
+permalink: /about/
 ---
 ## This is me!
