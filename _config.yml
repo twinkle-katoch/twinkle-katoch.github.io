@@ -2,6 +2,7 @@ remote_theme: hardpool/hardpool-flat
 
 # Build settings
 markdown: kramdown
+encoding: utf-8
 
 # Site Settings
 title                     : "Twinkle's portfolio"
@@ -18,6 +19,11 @@ seo:
 main_logo                 : ""
 name                      : "Twinkle Katoch"
 description               : ""
+header:
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/twinklekatoch"
 
 # Site Footer
 copyright: "Twinkle Katoch"
@@ -27,12 +33,10 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-f"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
+    
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/twinklekatoch"
 
 # Reading Files
 include:

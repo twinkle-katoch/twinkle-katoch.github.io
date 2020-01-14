@@ -13,7 +13,7 @@ main:
         url: /fashion/spring/
       - title: "Summer"
         url: /fashion/summer/
-      - title: "Autumn"
-        url: /fashion/autumn/
+      - title: "Fall"
+        url: /fashion/fall/
   - title: "Travel"
     url: /travel/
