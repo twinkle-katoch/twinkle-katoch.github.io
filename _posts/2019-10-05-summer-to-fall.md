@@ -8,21 +8,7 @@ img_v: /assets/img/summertofall-h.jpg
 img_h: /assets/img/summertofall-v.jpg
 img_t: /assets/img/disney-red-v.jpg
 outfits:
-  - title: Top
-    img: /assets/img/disney-red-v.jpg
-    link: http://google.com
-  - title: Top
-    img: /assets/img/disney-red-v.jpg
-    link: http://google.com
-  - title: Bottom
-    img: /assets/img/disney-red-v.jpg
-    link: http://google.com
-  - title: Shoes
-    img: /assets/img/disney-red-v.jpg
-    link: http://google.com
-  - title: Bag
-    img: /assets/img/disney-red-v.jpg
-    link: http://google.com
+ 
 ---
 Fall here in Houston has not yet began. But thank god at least we had few days
 70s. Well, to make my outfit practical enough to roam around the town. I made
