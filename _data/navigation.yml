@@ -6,14 +6,7 @@ main:
     url: /about/
   - title: "Fashion"
     url: /fashion/
-    sub:
-      - title: "Winter"
-        url: /fashion/winter/
-      - title: "Spring"
-        url: /fashion/spring/
-      - title: "Summer"
-        url: /fashion/summer/
-      - title: "Fall"
-        url: /fashion/fall/
-  - title: "Travel"
-    url: /travel/
+  - title: "Lifestyle"
+    url: /lifestyle/
+  - title: "Shop"
+    url: /shop/

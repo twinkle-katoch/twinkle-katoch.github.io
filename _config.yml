@@ -25,6 +25,14 @@ header:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/twinklekatoch"
 
+# site landing
+landing:
+  shop: <div id="ltkwidget-version-two225766876" data-appid="225766876" class="ltkwidget-version-two"><script>var rsLTKLoadApp="0",rsLTKPassedAppID="225766876";</script><script type="text/javascript" src="https://widgets-static.rewardstyle.com/widgets2_0/client/pub/ltkwidget/ltkwidget.js"></script><div widget-dashboard-settings="" data-appid="225766876" data-userid="331093" data-rows="1" data-cols="8" data-showframe="true" data-padding="4" data-profileid="94dc5dca-2f81-11ea-866a-0bef29f386d0"><div class="rs-ltkwidget-container"><div ui-view=""></div></div></div><noscript>This content requires JavaScript to be enabled, and the site or browser may be disabling it. Try reactivating it to view this content.</noscript></div>
+
+# site post
+post:
+  sidebar: <div id="ltkwidget-version-two169386404" data-appid="169386404" class="ltkwidget-version-two"><script>var rsLTKLoadApp="0",rsLTKPassedAppID="169386404";</script><script type="text/javascript" src="https://widgets-static.rewardstyle.com/widgets2_0/client/pub/ltkwidget/ltkwidget.js"></script><div widget-dashboard-settings="" data-appid="169386404" data-userid="331093" data-rows="4" data-cols="2" data-showframe="true" data-padding="4" data-profileid="94dc5dca-2f81-11ea-866a-0bef29f386d0"><div class="rs-ltkwidget-container"><div ui-view=""></div></div></div><noscript>This content requires JavaScript to be enabled, and the site or browser may be disabling it. Try reactivating it to view this content.</noscript></div>
+
 # Site Footer
 copyright: "Twinkle Katoch"
 footer:
