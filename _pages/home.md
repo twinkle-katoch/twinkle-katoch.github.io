@@ -1,5 +1,5 @@
 ---
-layout: portfolio-landing
+layout: null        # was: portfolio-landing
 title: Home
 permalink: /
 ---
