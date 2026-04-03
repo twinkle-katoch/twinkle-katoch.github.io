@@ -48,4 +48,4 @@ description               : ""
 
 # Reading Files
 include:
-  - _pages
+  - _pages/home.md
