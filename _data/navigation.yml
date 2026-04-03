@@ -2,11 +2,11 @@
 main:
   - title: "Home"
     url: /
-  - title: "About"
-    url: /about/
-  - title: "Fashion"
-    url: /fashion/
-  - title: "Lifestyle"
-    url: /lifestyle/
-  - title: "Shop"
-    url: /shop/
+  # - title: "About"
+  #   url: /about/
+  # - title: "Fashion"
+  #   url: /fashion/
+  # - title: "Lifestyle"
+  #   url: /lifestyle/
+  # - title: "Shop"
+  #   url: /shop/
